@@ -27,7 +27,6 @@ print(f"\nValue1 > 50 or value2 < 100: {not(num1>50 or num2<100)}")
 print(f"\n---------------------------------------------")
 
 #Membership operators
-
 fruit=["Orange","Grape","Apple"]
 print("Membership operators")
 print(f"\nIs mango in the list? {"Mango" in fruit}, \nIs apple in the list? {"Apple" in fruit}")
